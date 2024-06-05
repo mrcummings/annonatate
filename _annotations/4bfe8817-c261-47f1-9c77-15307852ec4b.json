@@ -1,0 +1,34 @@
+---
+canvas: "https://digitalcollections.lib.iastate.edu/iiif/2/isu:WPA_b10f38i1_1~JP2~~isu_public/full/max/0/default.jpg"
+order: 3
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Quote from President Roosevelt laying out one of the aims of the WPA",
+            "purpose": "commenting",
+            "creator": {
+                "id": "mrcummings",
+                "name": "Michael Cummings"
+            },
+            "created": "2024-06-05T17:07:06.342Z",
+            "modified": "2024-06-05T17:07:26.309Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "id": "https://digitalcollections.lib.iastate.edu/iiif/2/isu:WPA_b10f38i1_1~JP2~~isu_public/full/max/0/default.jpg",
+            "type": "image"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=148.00550842285156,4223.26904296875,2845.4195404052734,403.7421875"
+        }
+    },
+    "id": "4bfe8817-c261-47f1-9c77-15307852ec4b.json",
+    "motivation": "commenting"
+}
