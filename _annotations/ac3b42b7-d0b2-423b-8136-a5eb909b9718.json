@@ -1,0 +1,34 @@
+---
+canvas: "https://digitalcollections.lib.iastate.edu/iiif/2/isu:WPA_b10f38i1_1~JP2~~isu_public/full/max/0/default.jpg"
+order: 4
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Information about where and when this brochure was used",
+            "purpose": "commenting",
+            "creator": {
+                "id": "mrcummings",
+                "name": "Michael Cummings"
+            },
+            "created": "2024-06-05T17:07:36.810Z",
+            "modified": "2024-06-05T17:07:54.691Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "id": "https://digitalcollections.lib.iastate.edu/iiif/2/isu:WPA_b10f38i1_1~JP2~~isu_public/full/max/0/default.jpg",
+            "type": "image"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=442.8014221191406,57.67742156982422,2499.3550720214844,237.1183853149414"
+        }
+    },
+    "id": "ac3b42b7-d0b2-423b-8136-a5eb909b9718.json",
+    "motivation": "commenting"
+}
