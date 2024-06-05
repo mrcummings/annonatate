@@ -1,0 +1,34 @@
+---
+canvas: "https://digitalcollections.lib.iastate.edu/iiif/2/isu:WPA_b3f26i1_1~JP2~~isu_public/full/max/0/default.jpg"
+order: 4
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Court Avenue Bridge, built 1918, added to the NHRP 1998",
+            "purpose": "commenting",
+            "creator": {
+                "id": "mrcummings",
+                "name": "Michael Cummings"
+            },
+            "created": "2024-06-05T17:14:35.495Z",
+            "modified": "2024-06-05T17:14:48.085Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "id": "https://digitalcollections.lib.iastate.edu/iiif/2/isu:WPA_b3f26i1_1~JP2~~isu_public/full/max/0/default.jpg",
+            "type": "image"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=150.98046875,2183.058349609375,1427.9920654296875,827.730224609375"
+        }
+    },
+    "id": "b1ff9fce-a4a4-46cb-be59-e2783815ce9b.json",
+    "motivation": "commenting"
+}
