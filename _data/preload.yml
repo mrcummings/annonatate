@@ -1,3 +1,9 @@
-images: []
+images:
+- added: '2024-06-05 16:58:46.461960'
+  iiif: false
+  thumbnail: https://digitalcollections.lib.iastate.edu/iiif/2/isu:WPA_b10f38i1_1~JP2~~isu_public/full/max/0/default.jpg
+  title: ''
+  url: https://digitalcollections.lib.iastate.edu/iiif/2/isu:WPA_b10f38i1_1~JP2~~isu_public/full/max/0/default.jpg
+  user: Michael Cummings
 settings: {}
 version: '2.1'
